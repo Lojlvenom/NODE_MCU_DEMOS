@@ -4,8 +4,8 @@
 #include <ESP8266mDNS.h>
 
 #ifndef STASSID
-#define STASSID "Família Urso"
-#define STAPSK  "Brasil@2020"
+#define STASSID ""
+#define STAPSK  ""
 #endif
 
 const char* ssid = STASSID;
